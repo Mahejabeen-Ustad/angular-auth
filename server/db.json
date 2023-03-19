@@ -1,0 +1,132 @@
+{
+  "videosList": [
+    {
+      "id": 1,
+      "title": "Angular Tutorial for Beginners: Learn Angular",
+      "posterPath": "https://i.ytimg.com/vi/k5E2AVpwsko/default.jpg",
+      "description": "Angular tutorial for beginners: Learn Angular & TypeScript from scratch. Get my complete Angular "
+    },
+    {
+      "id": 2,
+      "title": "Angular 8 Tutorial | Create Angular Project from Scratch",
+      "posterPath": "https://i.ytimg.com/vi/pTec1e8oyc8/default.jpg",
+      "description": "Edureka Angular 8 Certification Training: https://www.edureka.co/angular-training This Edureka \"Angular 8 Tutorial\" will help you learn Angular 8 completely "
+    },
+    {
+      "id": 3,
+      "title": "React VS Angular in 2020",
+      "posterPath": "https://i.ytimg.com/vi/9LNaQln11BA/default.jpg",
+      "description": "In this world where attention span is very short and getting shorter, I would like to share my thoughts on Angular Vs React situation. "
+    },
+    {
+      "id": 4,
+      "title": "What is Angular? (Explained for Beginner",
+      "posterPath": "https://i.ytimg.com/vi/VAkio68d51A/default.jpg",
+      "description": "When you're just starting out you are probably wondering \"What is Angular exactly? When you ask that question it leads to a lot of concepts that are over your "
+    },
+    {
+      "id": 5,
+      "title": "React Tutorial for Beginners [React js]",
+      "posterPath": "https://i.ytimg.com/vi/Ke90Tje7VS0/default.jpg",
+      "description": "React Tutorial - Learn to build fast web apps with React (React js) from scratch. Get the complete React course"
+    },
+    {
+      "id": 6,
+      "title": "React JS Crash Course",
+      "posterPath": "https://i.ytimg.com/vi/sBws8MSXN7A/default.jpg",
+      "description": "In this crash course you will learn what React JS is and the fundamentals such as components, state, props, JSX, events, etc. Modern React Front To Back "
+    },
+    {
+      "id": 7,
+      "title": "ReactJS Crash Course",
+      "posterPath": "https://i.ytimg.com/vi/nvHeB32ICDM/default.jpg",
+      "description": "Welcome to the crash course on reactJS. Here is the link for exercise files, final project, and discussion section for this course"
+    },
+    {
+      "id": 8,
+      "title": "Learn React JS - Full Course for Beginners - Tutorial 2019",
+      "posterPath": "https://i.ytimg.com/vi/DLX62G4lc44/default.jpg",
+      "description": "React.js is a JavaScript library for building dynamic web applications. Upon completion of this course, you'll know everything you need in order to build web ..."
+    },
+    {
+      "id": 9,
+      "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh",
+      "posterPath": "https://i.ytimg.com/vi/TlB_eWDSMt4/default.jpg",
+      "description": "Node.js Tutorial for Beginners: Learn Node in 1 Hour Get the complete Node course: http://bit.ly/2NfkpOC Subscribe for more videos"
+    },
+    {
+      "id": 10,
+      "title": "Node.js Crash Course",
+      "posterPath": "https://i.ytimg.com/vi/fBNz5xF-Kx4/default.jpg",
+      "description": "In this crash course we will explore Node.js fundamentals including modules such as path, url, fs, events and we will create an HTTP server from scratch without "
+    },
+    {
+      "id": 11,
+      "title": "Node JS Full Course - Learn Node.js in 7 Hours | Node.js Tutorial for Beginners | Edureka",
+      "posterPath": "https://i.ytimg.com/vi/JnvKXcSI7yk/default.jpg",
+      "description": "Node.js Certification Training: https://www.edureka.co/nodejs-certification-training ** This Edureka Node.js Full Course video will help you in learn Node.js along"
+    },
+    {
+      "id": 12,
+      "title": "Learn Node.js - Full Tutorial for Beginners",
+      "posterPath": "https://i.ytimg.com/vi/RLtyhwFtXQA/default.jpg",
+      "description": "Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser. Learn all about Node.js in the full ..."
+    },
+    {
+      "id": 13,
+      "title": "MongoDB In 30 Minutes",
+      "posterPath": "https://i.ytimg.com/vi/pWbMrx5rVBE/default.jpg",
+      "description": "UPDATED VIDEO 2019 - https://www.youtube.com/watch?v=-56x56UppqQ In this video we will dive into the MongoDB NoSQL database and look at the ..."
+    },
+    {
+      "id": 14,
+      "title": "what is mongoDB",
+      "posterPath": "https://i.ytimg.com/vi/9JSG7Na2S4M/default.jpg",
+      "description": "mongoDB #series Welcome to the series of mongoDB. In this video we will talk about what is mongodb, why to use it and what are the companies that are using"
+    },
+    {
+      "id": 15,
+      "title": "MongoDB in 5 Minutes with Eliot Horowitz",
+      "posterPath": "https://i.ytimg.com/vi/EE8ZTQxa0AM/default.jpg",
+      "description": "Let MongoDB's CTO and Co-Founder, Eliot Horowitz, give you a comprehensive introduction to MongoDB in under 5 minutes. He'll walk you through how the "
+    },
+    {
+      "id": 16,
+      "title": "MongoDB Crash Course",
+      "posterPath": "https://i.ytimg.com/vi/-56x56UppqQ/default.jpg",
+      "description": "In this video we will go over MongoDB, which is a popular NoSQL database that is commonly used with Node.js and other technologies. MongoDB Cheat Sheet: ..."
+    },
+    {
+      "id": 17,
+      "title": "Machine Learning Full Course - Learn Machine Learning 10 Hours",
+      "posterPath": "https://i.ytimg.com/vi/GwIo3gDZCVQ/default.jpg",
+      "description": "Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training This Edureka Machine Learning ..."
+    },
+    {
+      "id": 18,
+      "title": "Machine Learning Basics | What Is Machine Learning?",
+      "posterPath": "https://i.ytimg.com/vi/ukzFI9rgwfU/default.jpg",
+      "description": "This Machine Learning basics video will help you understand what is Machine Learning, what are the types of Machine Learning - supervised, unsupervised"
+    },
+    {
+      "id": 19,
+      "title": "Machine Learning with Python ",
+      "posterPath": "https://i.ytimg.com/vi/RnFGwxJwx-0/default.jpg",
+      "description": "Get the certificate of completion for the course, for Free: https://glacad.me/GLA_ml_python For data sets, code files and projects associated with course please"
+    },
+    {
+      "id": 20,
+      "title": "Machine Learning Tutorial | Machine Learning Full Course",
+      "posterPath": "https://i.ytimg.com/vi/9f-GarcDY58/default.jpg",
+      "description": "This complete Machine Learning Tutorial video covers all the topics that you need to know to become a master in the field of Machine Learning. This Machine ."
+    }
+  ],
+  "favoriteList": [
+    {
+      "id": 1,
+      "title": "Angular Tutorial for Beginners: Learn Angular",
+      "posterPath": "https://i.ytimg.com/vi/k5E2AVpwsko/default.jpg",
+      "description": "Angular tutorial for beginners: Learn Angular & TypeScript from scratch. Get my complete Angular "
+    }
+  ]
+}

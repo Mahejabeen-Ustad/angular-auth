@@ -1,0 +1,38 @@
+<div class="card-Container">
+    <div class="row">
+        <div class="">
+            <mat-card class="example-card" *ngFor="let vedio of favList" >
+                <!--card header-->
+                <mat-card-header>
+                    <div mat-card-avatar class="example-header-image"></div>
+                <!--vedio title -->
+                <mat-card-title>{{vedio.title}}</mat-card-title>
+                </mat-card-header>
+                <mat-divider></mat-divider>
+                &nbsp;&nbsp;&nbsp;
+                
+                <!--card content -->
+                <!--vedio poster-->
+                <mat-card-content><img alt="poster" src="{{ vedio.posterPath }}" /></mat-card-content>
+                <mat-divider></mat-divider>
+
+                <!--vedio description-->
+                <mat-card-content>{{vedio.description}}</mat-card-content>
+                <mat-divider></mat-divider>
+                &nbsp;&nbsp;&nbsp;
+
+                <!--delete option from favourite list-->
+                <mat-card-content>
+                    <button mat-button class="btn btn-secondary" (click)="delete(vedio.id)"> Delete  Favourite </button>
+                </mat-card-content>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+
+
+            
+            </mat-card>
+
+        </div>
+                         
+    </div>
+             
+</div>       

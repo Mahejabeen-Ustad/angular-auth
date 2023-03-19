@@ -1,0 +1,27 @@
+<div class="login-conatiner">
+    <h3 class="jumbotron">Login Form</h3>
+    <form [formGroup]="loginform" class="login-form" (ngSubmit)="validateUser(loginform)" >
+           <mat-form-field>
+                   <mat-label>Email</mat-label>
+                   <input matInput formControlName="username" placeholder="enter username">
+                <mat-error *ngIf="loginform.get('username')?.touched && loginform.get('username')?.hasError('required')">
+                    Email is required
+                </mat-error>
+                <mat-error *ngIf="loginform.get('username')?.touched && loginform.get('username')?.hasError('minlength')">
+                       Email must be 6 character
+                   </mat-error>
+               </mat-form-field>
+           <mat-form-field>
+                   <mat-label>Password</mat-label>
+                   <input type="password" formControlName="password" matInput placeholder="enter password">
+                   <mat-error *ngIf="loginform.get('password')?.touched && loginform.get('password')?.hasError('required')">
+                           Password is required
+                       </mat-error>
+                       <mat-error *ngIf="loginform.get('password')?.touched && loginform.get('password')?.hasError('minlength')">
+                              Password must be 6 character
+                          </mat-error>
+               </mat-form-field>
+           <button mat-button color="primary" [disabled]="loginform.invalid">Done</button>
+    </form>
+   </div>
+   
